@@ -1,0 +1,8 @@
+.wb{
+    text-decoration: none;
+}
+
+body{
+    /* 背景的五大属性： 颜色（color）  图片地址（url（）） 是否滚动（fixed / scroll)  位置(x , y) */
+    background: pink url(image/back.webp) fixed center center;
+}
